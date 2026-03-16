@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>titulo</h1>
+      <h1>titulo del programa</h1>
       <p>HOLA</p>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium
@@ -32,7 +32,7 @@ function App() {
         recusandae repudiandae magni doloribus illo necessitatibus praesentium
         voluptatem cumque amet tempora deserunt natus?
       </p>
-      <h3>aaaaaaaaaa</h3>
+      <h3>prueba de encabezado 3</h3>
     </>
   );
 }
